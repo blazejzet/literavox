@@ -1,13 +1,29 @@
 
-# Literavox
+## LocalAudioBooksPlayer
 
-Literavox is my project, created with help of Asuri Solutions Team (2018-2023). It allows to play audiobooks from icloud / ondevice private sources.
+LocalAudioBooksPlayer is a project developed with the assistance of the Asuri Solutions Team (2018-2023). It enables users to access audiobooks stored on their iCloud account or locally on their device from private sources.
 
-## Status of project
+### Project Status
 
-This software is no longer maitained, but waits for someone, who will take care of this repo.
+The software is currently in the development phase and is maintained by the community. Several experimental features remain, including subscriptions, uploads, and various source options.
 
+### iOS Availability
 
-## Status of things
+LocalAudioBooksPlayer is available on the Apple AppStore under the same name. All revenue generated from the app is utilized for further development. Your support would be greatly appreciated. Think of it as a "buy me a coffee" gesture if you enjoy using the app.
 
-In the project there is couple of experiment leftovers (Subscriptions, uploads, various sources).
+### Purpose of the App
+
+LocalAudioBooksPlayer serves as an audiobook player that allows users to access audiobooks from various sources. It enables users to download full ZIP files containing MP3 files from online shops like virtualo.pl and organize them in their own folders.
+
+### Managing Folders
+
+The app provides users with the option to manage their own folders as well as iCloud folders. To add a new source, users simply need to select the desired folder and add it to the app.
+
+The expected folder structure is as follows:
+
+```
+/Library_folder - the selected library root folder.
+    /audiobook_subfolder - the folder where an audiobook resides.
+        mp3 files - all MP3 files of the audiobook from the provider.
+    /other_audiobook_subfolder - additional folders for other audiobooks.
+```
