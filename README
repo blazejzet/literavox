@@ -3,11 +3,6 @@
 
 LocalAudioBooksPlayer is a project developed with the assistance of the Asuri Solutions Team (2018-2023). It enables users to access audiobooks stored on their iCloud account or locally on their device from private sources.
 
-![welcome1](https://github.com/blazejzet/literavox/blob/main/LocalAudioBooksPlayer/Assets.xcassets/welcome-2.imageset/welcome-2.png?raw=true)
-![welcome-2](https://github.com/blazejzet/literavox/blob/main/LocalAudioBooksPlayer/Assets.xcassets/welcome-2.imageset/welcome-2.png)
-
-![welcome-3](https://github.com/blazejzet/literavox/blob/main/LocalAudioBooksPlayer/Assets.xcassets/welcome-3.imageset/welcome-3.png)
-
 ### Project Status
 
 The software is currently in the development phase and is maintained by the community. Several experimental features remain, including subscriptions, uploads, and various source options.
