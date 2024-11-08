@@ -164,6 +164,7 @@
 		E087F6BA2C3B0E5E00C4B568 /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		E0951B482958DE5F002E483F /* FilePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilePicker.swift; sourceTree = "<group>"; };
 		E0951B492958DE65002E483F /* FilePickerUIRepresentable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilePickerUIRepresentable.swift; sourceTree = "<group>"; };
+		E0AA67AD2CDEAD5600330D47 /* PRIVACYPOLICY.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = PRIVACYPOLICY.md; sourceTree = "<group>"; };
 		E0F4E87A2995AF2E0012570D /* AddingBooksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingBooksView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -250,6 +251,7 @@
 		E05D630D245ED71F00344C33 = {
 			isa = PBXGroup;
 			children = (
+				E0AA67AD2CDEAD5600330D47 /* PRIVACYPOLICY.md */,
 				E087F6BA2C3B0E5E00C4B568 /* README */,
 				E05D6318245ED71F00344C33 /* LocalAudioBooksPlayer */,
 				E05D6317245ED71F00344C33 /* Products */,
